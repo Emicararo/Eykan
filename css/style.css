@@ -942,7 +942,7 @@ a:focus {
 /* footer section*/
 .footer_section {
   background-color: #dfdcc9;
-  color: #ffffff;
+  color: #525156;
   padding: 75px 0 40px 0;
   text-align: center;
 }
@@ -959,7 +959,7 @@ a:focus {
 }
 
 .footer_section p {
-  color: #dbdbdb;
+  color: #525156;
 }
 
 .footer_section .footer-col {
@@ -978,7 +978,7 @@ a:focus {
 
 .footer_section .footer_contact .contact_link_box a {
   margin: 5px 0;
-  color: #ffffff;
+  color: #525156;
 }
 
 .footer_section .footer_contact .contact_link_box a i {
@@ -986,7 +986,7 @@ a:focus {
 }
 
 .footer_section .footer_contact .contact_link_box a:hover {
-  color: #ffbe33;
+  color: #525156;
 }
 
 .footer_section .footer-logo {
@@ -994,7 +994,7 @@ a:focus {
   font-weight: bold;
   font-size: 38px;
   line-height: 1;
-  color: #ffffff;
+  color: #525156;
 }
 
 .footer_section .footer_social {
